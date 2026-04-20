@@ -162,6 +162,7 @@
 |[熊猫矿机 ](http://pandaminer.com/)|-|-|
 |[币信矿池 ](https://pool.bixin.com/home)|-|-|
 |[星火矿池](https://eth.ethfans.org/)|-|-|
+|[RustChain](https://github.com/Scottcjn/Rustchain)|[ElyanLabs](https://elyanlabs.ai)|[BoTTube AI视频平台](https://bottube.ai)|
 |-|[OneChain](http://www.onechain.one/)|-|
 
 <br/>
